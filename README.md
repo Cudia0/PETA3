@@ -4,7 +4,7 @@
 
 ### *Compass*
 
-![image of COMPASS](pictures/compass.png)The compass pencil shows a perfect world, where despite problems, having my friends and family makes life feel great. Even sometimes things aren't perfect, looking at the bright side helps me to find solutions, like adjusting a compass to make a perfect circle despite small mistakes.
+| ![image of COMPASS](pictures/compass.png) | The compass pencil shows a perfect world, where despite problems, having my friends and family makes life feel great. Even sometimes things aren't perfect, looking at the bright side helps me to find solutions, like adjusting a compass to make a perfect circle despite small mistakes. |
 
 
 

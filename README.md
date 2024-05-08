@@ -17,7 +17,7 @@
 
 | Pencil | Description |
 |-------|-------------|
-| ![PENCIL](pictures/pencil.png) | **A regular pencil is me, because I'm the one who's controlling my life with the choices I make, whether they're good or bad. **|
+| ![PENCIL](pictures/pencil.png) | **A regular pencil is me, because I'm the one who's controlling my life with the choices I make, whether they're good or bad.** |
 
 ---
 

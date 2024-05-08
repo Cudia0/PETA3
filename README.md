@@ -1,13 +1,13 @@
 
 
 
-| Compass |
+| Compass |  |
 |-------|-------------|
 | ![COMPASS](pictures/compass.png) | The compass pencil shows a perfect world, where despite problems, having my friends and family makes life feel great. Even sometimes things aren't perfect, looking at the bright side helps me to find solutions, like adjusting a compass to make a perfect circle despite small mistakes. |
 
 ---
 
-| Pencil | Description |
+| Pencil |  |
 |-------|-------------|
 | ![PENCIL](pictures/pencil.png) | A regular pencil is me, because I'm the one who's controlling my life with the choices I make, whether they're good or bad. |
 

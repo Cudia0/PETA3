@@ -4,7 +4,7 @@
 
 ### *Compass*
 
-![image of COMPASS](pictures/compass.jpeg)
+![image of COMPASS](pictures/compass.png)
 
 
 ---

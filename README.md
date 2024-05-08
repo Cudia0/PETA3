@@ -23,13 +23,13 @@
 
 | Pencil and paper | Description |
 |-------|-------------|
-| ![PENCIL AND PAPER](pictures/pencilwithpaper.png) | Friends, family, and other people are like pencils and paper, they are the ones who are guiding me to be a better or worse version of myself. |
+| ![PENCIL AND PAPER](pictures/pencilwithpaper.png) | Friends, family, and other people are like pencils and paper for me, bacause they are the ones who are guiding me to be a better or worse version of myself. |
 
 ---
 
 | Broken Pencil | Description |
 |-------|-------------|
-| ![BROKEN PENCIL](pictures/brokenpencil.png) | My father is like a broken pencil, he still keeps going despite tough times, he's doing his best working hard for our future. |
+| ![BROKEN PENCIL](pictures/brokenpencil.png) | My father is like a broken pencil, he still keeps going despite tough times, he's doing his best and working hard for me and for my brothers. |
 
 ---
 

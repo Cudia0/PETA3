@@ -4,7 +4,7 @@
 
 ### *Compass*
 
-![image of COMPASS](pictures/compass.png)
+![image of COMPASS](pictures/compass.jpeg)
 
 
 ---
@@ -18,7 +18,7 @@
 
 ### *Pencil & Paper*
 
-![image of PENCIL AND PAPER](pictures/paperwithpencil.png)
+![image of PENCIL AND PAPER](pictures/pencilwithpaper.png)
 
 
 ---

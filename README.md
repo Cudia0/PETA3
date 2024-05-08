@@ -4,8 +4,9 @@
 ***
 
 ### Cudia, Lucky Vincent
-####     11-ICT
+###     11-ICT
 
+---
 ---
 
 | Compass | Description |
